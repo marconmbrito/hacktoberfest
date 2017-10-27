@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Marco Brito](https://github.com/marconmbrito)
+- Place: Stockholm, Sweden
+- Bio: Front-end Developer. IT Management student
+- GitHub: [marconmbrito](https://github.com/marconmbrito)
